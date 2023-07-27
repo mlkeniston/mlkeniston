@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mlkeniston
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning on The Odin Project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: malcolm910@gmail.com
 - 
