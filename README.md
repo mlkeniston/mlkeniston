@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="center">I'm Malcolm Keniston. Nice to meet you!<br><br>- 🔭 I’m a full time student at PVCC.<br>- 📚 I'm currently learning Machine Learning (among other things)<br>- ⚡ In my free time I love working out, planning new projects, and reading.</p>
+<p align="center">I'm Malcolm Keniston. Nice to meet you!<br><br>- 🔭 I’m a full time student at PVCC.<br>- 📚 I'm currently Majoring in Computer Science <br>- ⚡ In my free time I love working out, planning new projects, and reading.</p>
 
 ###
 
